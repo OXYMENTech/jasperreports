@@ -28,4 +28,29 @@
 		<pdfEmbedded>true</pdfEmbedded>
 	</fontFamily>
 
+
+	<fontFamily name="Source Han Sans SC">
+        <normal>net/sf/jasperreports/fonts/SourceHanSansSC-Normal.ttf</normal>
+        <bold>net/sf/jasperreports/fonts/SourceHanSansSC-Bold.ttf</bold>
+        <italic>net/sf/jasperreports/fonts/SourceHanSansSC-Regular.ttf</italic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'Source Han Sans SC'</export>
+            <export key="net.sf.jasperreports.xhtml">'Source Han Sans SC'</export>
+        </exportFonts>
+    </fontFamily>
+
+    <fontFamily name="Lato">
+        <normal>net/sf/jasperreports/fonts/SourceHanSansSC-Normal.ttf</normal>
+        <bold>net/sf/jasperreports/fonts/SourceHanSansSC-Bold.ttf</bold>
+        <italic>net/sf/jasperreports/fonts/SourceHanSansSC-Regular.ttf</italic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">Lato</export>
+            <export key="net.sf.jasperreports.xhtml">Lato</export>
+        </exportFonts>
+    </fontFamily>
+
 </fontFamilies>
