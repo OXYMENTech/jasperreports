@@ -42,9 +42,9 @@
     </fontFamily>
 
     <fontFamily name="Lato">
-        <normal>net/sf/jasperreports/fonts/SourceHanSansSC-Normal.ttf</normal>
-        <bold>net/sf/jasperreports/fonts/SourceHanSansSC-Bold.ttf</bold>
-        <italic>net/sf/jasperreports/fonts/SourceHanSansSC-Regular.ttf</italic>
+        <normal>net/sf/jasperreports/fonts/Lato-Regular.ttf</normal>
+        <bold>net/sf/jasperreports/fonts/Lato-Bold.ttf</bold>
+        <italic>net/sf/jasperreports/fonts/Lato-Italic.ttf</italic>
         <pdfEncoding>Identity-H</pdfEncoding>
         <pdfEmbedded>true</pdfEmbedded>
         <exportFonts>
